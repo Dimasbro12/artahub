@@ -1,0 +1,57 @@
+com.example.artahub.app-jetified-datastore-core-release-0 C:\Users\DIMAS\.gradle\caches\transforms-3\04e683e247dfe6e6d8a5919a2c524df0\transformed\jetified-datastore-core-release\res
+com.example.artahub.app-jetified-datastore-preferences-release-1 C:\Users\DIMAS\.gradle\caches\transforms-3\0b9c1ddeb9c8002ecd0bccdc6640db8c\transformed\jetified-datastore-preferences-release\res
+com.example.artahub.app-jetified-window-java-1.2.0-2 C:\Users\DIMAS\.gradle\caches\transforms-3\109c87127b1ccb19c904a2534635502b\transformed\jetified-window-java-1.2.0\res
+com.example.artahub.app-jetified-camera-camera2-1.3.1-3 C:\Users\DIMAS\.gradle\caches\transforms-3\158d8085d1b819ad9a5ea1e48ea68333\transformed\jetified-camera-camera2-1.3.1\res
+com.example.artahub.app-jetified-play-services-measurement-api-21.6.1-4 C:\Users\DIMAS\.gradle\caches\transforms-3\1b02aa62b1de8001dae1f7e1d2f80179\transformed\jetified-play-services-measurement-api-21.6.1\res
+com.example.artahub.app-coordinatorlayout-1.0.0-5 C:\Users\DIMAS\.gradle\caches\transforms-3\1d68cec6d81b442a2f224f36f5816556\transformed\coordinatorlayout-1.0.0\res
+com.example.artahub.app-transition-1.4.1-6 C:\Users\DIMAS\.gradle\caches\transforms-3\299dc8ffafdf5e4d770732d0f99ece8f\transformed\transition-1.4.1\res
+com.example.artahub.app-core-runtime-2.2.0-7 C:\Users\DIMAS\.gradle\caches\transforms-3\2c148c445ebad817b5ff5e7c4e239013\transformed\core-runtime-2.2.0\res
+com.example.artahub.app-jetified-lifecycle-viewmodel-ktx-2.7.0-8 C:\Users\DIMAS\.gradle\caches\transforms-3\2fcb0d74b9ec6ab1fa2c64b189e5172e\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.example.artahub.app-jetified-camera-lifecycle-1.3.1-9 C:\Users\DIMAS\.gradle\caches\transforms-3\314761c939f9bfde1189c32cb03d0790\transformed\jetified-camera-lifecycle-1.3.1\res
+com.example.artahub.app-jetified-core-ktx-1.13.1-10 C:\Users\DIMAS\.gradle\caches\transforms-3\3382396110643ef8d66bbd1fdd899fc8\transformed\jetified-core-ktx-1.13.1\res
+com.example.artahub.app-jetified-appcompat-resources-1.1.0-11 C:\Users\DIMAS\.gradle\caches\transforms-3\405766e06d06aa2821311af7e1143a26\transformed\jetified-appcompat-resources-1.1.0\res
+com.example.artahub.app-jetified-startup-runtime-1.1.1-12 C:\Users\DIMAS\.gradle\caches\transforms-3\4137eaf763c7e5913f46dc8071c9b9e0\transformed\jetified-startup-runtime-1.1.1\res
+com.example.artahub.app-jetified-tracing-1.2.0-13 C:\Users\DIMAS\.gradle\caches\transforms-3\43c79437964b838b4a3d4635125275ce\transformed\jetified-tracing-1.2.0\res
+com.example.artahub.app-jetified-lifecycle-process-2.7.0-14 C:\Users\DIMAS\.gradle\caches\transforms-3\44f2db56004bf7a676ecb857f4f97c16\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.artahub.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-15 C:\Users\DIMAS\.gradle\caches\transforms-3\4e83e40685004db64090e821840c743c\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.artahub.app-browser-1.8.0-16 C:\Users\DIMAS\.gradle\caches\transforms-3\51d874ab53f6a2f20f44960c0ae60572\transformed\browser-1.8.0\res
+com.example.artahub.app-slidingpanelayout-1.2.0-17 C:\Users\DIMAS\.gradle\caches\transforms-3\53b4367d1f27f50ca86ea7ed6de8d535\transformed\slidingpanelayout-1.2.0\res
+com.example.artahub.app-jetified-firebase-common-20.4.3-18 C:\Users\DIMAS\.gradle\caches\transforms-3\53e89625462fc32f65e963d08c46a230\transformed\jetified-firebase-common-20.4.3\res
+com.example.artahub.app-jetified-lifecycle-livedata-core-ktx-2.7.0-19 C:\Users\DIMAS\.gradle\caches\transforms-3\5d11937803cc43e0391330cd9337aa86\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.artahub.app-jetified-savedstate-1.2.1-20 C:\Users\DIMAS\.gradle\caches\transforms-3\5ec5e1bf6ea57681bcf847f7b23610e3\transformed\jetified-savedstate-1.2.1\res
+com.example.artahub.app-preference-1.2.1-21 C:\Users\DIMAS\.gradle\caches\transforms-3\642f9fff6127356ee86fc1981526e2e2\transformed\preference-1.2.1\res
+com.example.artahub.app-jetified-play-services-base-18.1.0-22 C:\Users\DIMAS\.gradle\caches\transforms-3\6cb2b9948a9774e27e85f32e22a8c281\transformed\jetified-play-services-base-18.1.0\res
+com.example.artahub.app-jetified-fragment-ktx-1.7.1-23 C:\Users\DIMAS\.gradle\caches\transforms-3\72dfa5b8fc026fa83b073481ffe3e9dd\transformed\jetified-fragment-ktx-1.7.1\res
+com.example.artahub.app-jetified-savedstate-ktx-1.2.1-24 C:\Users\DIMAS\.gradle\caches\transforms-3\7803a18f93cf28eb109e4132b538025f\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.artahub.app-jetified-datastore-release-25 C:\Users\DIMAS\.gradle\caches\transforms-3\7d6c46d0954c0d092a9b16eb06a3a23a\transformed\jetified-datastore-release\res
+com.example.artahub.app-lifecycle-livedata-core-2.7.0-26 C:\Users\DIMAS\.gradle\caches\transforms-3\8241127bb2d62bd1c8e9fb1770135e8a\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.artahub.app-jetified-annotation-experimental-1.4.0-27 C:\Users\DIMAS\.gradle\caches\transforms-3\8471381137dfa3ccd7f0f06477c0dc43\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.artahub.app-jetified-ads-adservices-java-1.0.0-beta05-28 C:\Users\DIMAS\.gradle\caches\transforms-3\99b7c70cbe796c0414714f0e8de91178\transformed\jetified-ads-adservices-java-1.0.0-beta05\res
+com.example.artahub.app-recyclerview-1.0.0-29 C:\Users\DIMAS\.gradle\caches\transforms-3\9d377aab3c3d88524f637a21ffbb5980\transformed\recyclerview-1.0.0\res
+com.example.artahub.app-jetified-camera-core-1.3.1-30 C:\Users\DIMAS\.gradle\caches\transforms-3\a1002aac5e72f3c3782d50c69fca22e5\transformed\jetified-camera-core-1.3.1\res
+com.example.artahub.app-lifecycle-viewmodel-2.7.0-31 C:\Users\DIMAS\.gradle\caches\transforms-3\adca5e69ff5df079783a86debe31b01f\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.artahub.app-jetified-lifecycle-runtime-ktx-2.7.0-32 C:\Users\DIMAS\.gradle\caches\transforms-3\bf2e372da20ad5b99d3c0713a7a4ed10\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.example.artahub.app-jetified-window-1.2.0-33 C:\Users\DIMAS\.gradle\caches\transforms-3\c8537eda39da06ee5ce67d906e2c80bb\transformed\jetified-window-1.2.0\res
+com.example.artahub.app-appcompat-1.1.0-34 C:\Users\DIMAS\.gradle\caches\transforms-3\c94dfc2e94c9a87c6ee636bdab9248f0\transformed\appcompat-1.1.0\res
+com.example.artahub.app-jetified-activity-ktx-1.8.1-35 C:\Users\DIMAS\.gradle\caches\transforms-3\cb4f08e74df5fc803d770c2f732e2f53\transformed\jetified-activity-ktx-1.8.1\res
+com.example.artahub.app-jetified-core-1.0.0-36 C:\Users\DIMAS\.gradle\caches\transforms-3\d80e9382c8bf12b704a2710042ea4109\transformed\jetified-core-1.0.0\res
+com.example.artahub.app-lifecycle-runtime-2.7.0-37 C:\Users\DIMAS\.gradle\caches\transforms-3\db958715b2966b0fd9a28b053c4b7f44\transformed\lifecycle-runtime-2.7.0\res
+com.example.artahub.app-fragment-1.7.1-38 C:\Users\DIMAS\.gradle\caches\transforms-3\dce57014d0be1c15d65a0e424ea1460d\transformed\fragment-1.7.1\res
+com.example.artahub.app-jetified-profileinstaller-1.3.1-39 C:\Users\DIMAS\.gradle\caches\transforms-3\de9027c1225608b421d12ea04a4c47ae\transformed\jetified-profileinstaller-1.3.1\res
+com.example.artahub.app-lifecycle-livedata-2.7.0-40 C:\Users\DIMAS\.gradle\caches\transforms-3\df492876eb84a78e319f16ebdb957d0e\transformed\lifecycle-livedata-2.7.0\res
+com.example.artahub.app-jetified-ads-adservices-1.0.0-beta05-41 C:\Users\DIMAS\.gradle\caches\transforms-3\e0b1219f40ad0364741fef59d804ce32\transformed\jetified-ads-adservices-1.0.0-beta05\res
+com.example.artahub.app-jetified-play-services-basement-18.3.0-42 C:\Users\DIMAS\.gradle\caches\transforms-3\f36cccbbcb37b110de928b93f4dee6f5\transformed\jetified-play-services-basement-18.3.0\res
+com.example.artahub.app-core-1.13.1-43 C:\Users\DIMAS\.gradle\caches\transforms-3\fcdf971228caab9ee7ac5f27608eb5c0\transformed\core-1.13.1\res
+com.example.artahub.app-jetified-activity-1.8.1-44 C:\Users\DIMAS\.gradle\caches\transforms-3\ffa07f530cd710db4d002842e0338a9d\transformed\jetified-activity-1.8.1\res
+com.example.artahub.app-debug-45 D:\23051204329_DIMASDWIPRAMONONUGROHO_TIJ23\RPL\PBP Project\artahubnew\artahub - Copy\android\app\src\debug\res
+com.example.artahub.app-main-46 D:\23051204329_DIMASDWIPRAMONONUGROHO_TIJ23\RPL\PBP Project\artahubnew\artahub - Copy\android\app\src\main\res
+com.example.artahub.app-pngs-47 D:\23051204329_DIMASDWIPRAMONONUGROHO_TIJ23\RPL\PBP Project\artahubnew\artahub - Copy\build\app\generated\res\pngs\debug
+com.example.artahub.app-resValues-48 D:\23051204329_DIMASDWIPRAMONONUGROHO_TIJ23\RPL\PBP Project\artahubnew\artahub - Copy\build\app\generated\res\resValues\debug
+com.example.artahub.app-packageDebugResources-49 D:\23051204329_DIMASDWIPRAMONONUGROHO_TIJ23\RPL\PBP Project\artahubnew\artahub - Copy\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.artahub.app-packageDebugResources-50 D:\23051204329_DIMASDWIPRAMONONUGROHO_TIJ23\RPL\PBP Project\artahubnew\artahub - Copy\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.artahub.app-merged_res-51 D:\23051204329_DIMASDWIPRAMONONUGROHO_TIJ23\RPL\PBP Project\artahubnew\artahub - Copy\build\app\intermediates\merged_res\debug
+com.example.artahub.app-packaged_res-52 D:\23051204329_DIMASDWIPRAMONONUGROHO_TIJ23\RPL\PBP Project\artahubnew\artahub - Copy\build\firebase_analytics\intermediates\packaged_res\debug
+com.example.artahub.app-packaged_res-53 D:\23051204329_DIMASDWIPRAMONONUGROHO_TIJ23\RPL\PBP Project\artahubnew\artahub - Copy\build\firebase_core\intermediates\packaged_res\debug
+com.example.artahub.app-packaged_res-54 D:\23051204329_DIMASDWIPRAMONONUGROHO_TIJ23\RPL\PBP Project\artahubnew\artahub - Copy\build\mobile_scanner\intermediates\packaged_res\debug
+com.example.artahub.app-packaged_res-55 D:\23051204329_DIMASDWIPRAMONONUGROHO_TIJ23\RPL\PBP Project\artahubnew\artahub - Copy\build\shared_preferences_android\intermediates\packaged_res\debug
+com.example.artahub.app-packaged_res-56 D:\23051204329_DIMASDWIPRAMONONUGROHO_TIJ23\RPL\PBP Project\artahubnew\artahub - Copy\build\url_launcher_android\intermediates\packaged_res\debug
