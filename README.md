@@ -1,6 +1,6 @@
 # artahub
 
-A new Flutter project.
+Flutter about Education
 
 ## Getting Started
 
